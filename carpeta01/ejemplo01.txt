@@ -6,4 +6,8 @@ Modificado desde git
 Cambio
 
 
+<<<<<<< HEAD
 Otro mas
+=======
+Al master y se le pone mas
+>>>>>>> master
