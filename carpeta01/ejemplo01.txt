@@ -13,4 +13,10 @@ Al master y se le pone mas
 >>>>>>> master
 
 
+<<<<<<< HEAD
+
+
+Aqui va del demo001
+=======
 Se le agrego mas y mas al master
+>>>>>>> master
